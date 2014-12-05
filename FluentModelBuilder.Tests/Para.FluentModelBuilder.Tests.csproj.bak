@@ -47,9 +47,9 @@
     <AssemblyOriginatorKeyFile>paraOfficeSignKey.pfx</AssemblyOriginatorKeyFile>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="DevExpress.Data.v14.1" />
-    <Reference Include="DevExpress.ExpressApp.ConditionalAppearance.v14.1" />
-    <Reference Include="DevExpress.ExpressApp.v14.1" />
+    <Reference Include="DevExpress.Data.v12.2" />
+    <Reference Include="DevExpress.ExpressApp.ConditionalAppearance.v12.2" />
+    <Reference Include="DevExpress.ExpressApp.v12.2" />
     <Reference Include="FakeItEasy">
       <HintPath>..\packages\FakeItEasy.1.13.0\lib\net40\FakeItEasy.dll</HintPath>
     </Reference>
